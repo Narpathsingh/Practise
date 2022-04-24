@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 21px;
+}
+
+header {
+    background-color: lightgreen;
+    padding: 20px;
+    text-align: center;
+}
+
+.skills{
+    background-color: rosybrown;
+    padding: 3px;
+}
+
+.columns{
+    display: flex;
+    margin: 30px 150px;
+    text-align: center;
+}
+.col{
+    margin: 4px;
+    padding: 20px;
+    border: 2px dashed darkcyan;
+}
+
+.one{
+    background-color: royalblue;
+    padding: 1px;
+    color: whitesmoke
+}
+
+.section {
+   text-align: center;
+}
+
+.edit{
+    font-size: 25px;
+    color: black;
+}
+
+.second{
+    background-color: black;
+    padding: 1px;
+    color: yellow;
+    text-align: center;
+}
+
+.practise {
+    margin: 100px auto;
+}
+
+.h2{
+    font-size: 50px;
+    border: 5px dashed bisque;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+
+.practise p{
+    height: 40px;
+}
+
+footer div{
+    background-color: black;
+    color: lightgreen;
+    padding: 1px;
+    text-align: right;
+    text-decoration: underline;
+}
+
+footer div h3 {
+    margin-right: 30px;
+}
+
+.para{
+    font-size: 29px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
